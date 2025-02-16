@@ -1,0 +1,67 @@
+main{
+    position: relative;
+    top: 10rem;
+    margin: auto;
+    width: 55rem;
+    height: 28rem;
+}
+#one{
+    border-radius: 0.5rem 0rem 0rem 0.5rem;
+    height: 28rem;
+    background-color:hsl(31, 77%, 52%) ;
+    position: absolute;
+    margin: left;
+    width: 33%;
+}
+
+#two{
+    height: 28rem;
+    position: absolute;
+    background-color: hsl(184, 100%, 22%);
+    right: 33%;
+    width: 34%;
+}
+#three{
+    border-radius: 0rem 0.5rem 0.5rem 0rem;
+    height: 28rem;
+    position: absolute;
+    background-color: hsl(179, 100%, 13%);
+    right: 0;
+    width: 33%;
+}
+p{
+    margin-top:1rem ;
+    margin-left: 3rem ;
+    margin-right: 3rem;
+    font-size: 15px;
+    color:  hsla(0, 0%, 100%, 0.75);
+}
+h1{
+    color:  hsl(0, 0%, 95%);
+    margin: 2rem  0rem 0rem 3rem;
+}
+svg{
+    margin : 3rem 0rem 0rem 3rem ;
+}
+button{
+    margin:3rem 0rem 0rem 3rem ;
+    background-color:  hsl(0, 0%, 95%);
+    width:  8rem;
+    height: 2.5rem;
+    border-radius: 2rem;
+    border: none;
+}
+.lexend-deca {
+    font-family: "Lexend Deca", serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
+.big-shoulders-display{
+    font-family: "Big Shoulders Display", serif;
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-style: normal;
+  }
+ 
